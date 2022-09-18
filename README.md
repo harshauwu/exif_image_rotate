@@ -1,2 +1,2 @@
-# exif_image_rotate
+# exif_images_rotations
 only rotate exif images
