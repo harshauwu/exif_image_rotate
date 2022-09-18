@@ -12,4 +12,6 @@ When an image is viewed on page, Exif orientation value and auto-rotates the ima
 
 ### Architecture
 
+When we upload images to s3 bucket and automatically trigger exif-imag-lambda function. On this lambda check that image has orientation value.Ff it has orientation value it will be rotated and upload to another folder
+
 ![ImageRotation drawio](https://user-images.githubusercontent.com/16146189/190892979-9ac29ed2-bc67-4389-bea8-33743028164e.png)
