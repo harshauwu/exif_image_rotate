@@ -1,4 +1,4 @@
-# exif_images_rotations
+# Exif-orientation
 
 ### What is Exif
 
@@ -9,5 +9,7 @@ When an image is viewed on page, Exif orientation value and auto-rotates the ima
 ### Exif Orientation Flag
 ![exifimageorientation](https://user-images.githubusercontent.com/16146189/190893392-b0164112-0e3e-4e02-9e4c-93415ebf9b88.png)
 
+
+### Architecture
 
 ![ImageRotation drawio](https://user-images.githubusercontent.com/16146189/190892979-9ac29ed2-bc67-4389-bea8-33743028164e.png)
