@@ -1,0 +1,15 @@
+{
+  "name": "s3_trigger_lambda",
+  "version": "1.0.0",
+  "description": "When upload file into s3 bucket then lambda identify exif data and roate original image ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harsha Lakmal",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1218.0",
+    "sharp": "^0.31.0"
+  }
+}
